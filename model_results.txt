@@ -1,0 +1,19 @@
+Linear Regression:
+Mean Squared Error: 4739137006.79287
+Mean Absolute Error: 50859.68928548112
+R² Score: 0.6445007107356706
+
+Random Forest:
+Mean Squared Error: 3405990577.5901594
+Mean Absolute Error: 40108.97593474715
+R² Score: 0.7445047003623744
+
+KNN:
+Mean Squared Error: 7685124398.7639475
+Mean Absolute Error: 58108.6497553018
+R² Score: 0.4235118634990861
+
+Gradient Boosting:
+Mean Squared Error: 3382968208.207535
+Mean Absolute Error: 41107.58380369098
+R² Score: 0.746231689040054
